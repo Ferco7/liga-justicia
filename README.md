@@ -1,11 +1,11 @@
-# Objetivos de la repositorio
+# OBJETIVOS DEL REPOSITORIO
 
 Este proyecto se encarga de manejar los planes de la liga de la justicia
 
-## Notas
+## NOTAS
 
 Pueden hacer lo que quieran...
 
-### Actualizado desde GitHub
+### ACTUALIZADO DESDE GITHUB
 
 Este es un mensaje editado en GITHUB - Ferco7
