@@ -6,6 +6,6 @@ Este proyecto se encarga de manejar los planes de la liga de la justicia
 
 Pueden hacer lo que quieran...
 
-### ACTUALIZADO DESDE GITHUB
+### ACTUALIZADO DESDE REPO LOCAL
 
-Este es un mensaje editado en GITHUB - Ferco7
+Probando conflicto?
